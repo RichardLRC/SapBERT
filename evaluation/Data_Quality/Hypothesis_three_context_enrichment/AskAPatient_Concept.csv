@@ -1,0 +1,1037 @@
+concept_Id,medical_concept
+0,Fear
+1,Eruption
+2,Heel pain
+3,Joint crepitus
+4,Discolouration of skin
+5,Tachycardia
+6,Diastolic dysfunction
+7,Goitre
+8,Arthritis
+9,Rotator cuff syndrome
+10,Poor peripheral circulation
+11,Repetitive strain injury
+12,Herpes zoster
+13,Sinus pain
+14,Contusion of hand
+15,Tinea pedis
+16,Influenza
+17,Polyarthritis associated with another disorder
+18,Tachycardia
+19,Disturbance in physical behaviour
+20,Suicidal thoughts
+21,Clumsiness
+22,Hallucinations
+23,Disorder of nasal sinus
+24,Increased lactic acid level
+25,Abnormal vision
+26,Nocturnal enuresis
+27,Reduced libido
+28,Non-smoker
+29,Reduced mobility
+30,Sharp pain
+31,Weight gain
+32,Menstrual spotting
+33,Gastric ulcer with perforation
+34,Abdominal colic
+35,Bacterial sepsis
+36,Metatarsalgia
+37,Pain in lower limb
+38,Irritable bowel syndrome
+39,Nonspecific abdominal symptom
+40,Acne
+41,Achilles tendonitis
+42,Rectal haemorrhage
+43,Epistaxis
+44,Bone pain
+45,Reduced visual acuity
+46,Pressure
+47,Hypercholesterolaemia
+48,Bipolar disorder
+49,Asthenia
+50,Hyperaesthesia
+51,Thyroid disease
+52,Acute renal failure
+53,Constipation
+54,Hearing loss
+55,Sudden visual loss
+56,Cold extremities
+57,Otalgia
+58,Muscle rigidity
+59,Neuralgia
+60,Heartburn
+61,Dry skin
+62,Limping
+63,Miscarriage
+64,Sedated
+65,Hyperactive bowel sounds
+66,Abdominal hyperaesthesia
+67,Jaundice
+68,Hypochondriasis
+69,Gingival disease
+70,Pain in finger
+71,Mood swings
+72,Dysfunctional uterine bleeding
+73,Burning epigastric pain
+74,Disability
+75,Feeling agitated 232 249
+76,Abdominal pain
+77,Tenalgia
+78,Osteoarthrosis of hand
+79,Pain
+80,Myocardial infarction
+81,Abnormal gait
+82,Unsteady when walking
+83,Sciatica
+84,Visual field scotoma
+85,Lyme disease
+86,Decreased venous pressure
+87,Labyrinthitis
+88,Tight chest
+89,Finding of increased blood pressure
+90,Feeling agitated
+91,Fibromyalgia
+92,Multiple sclerosis
+93,Diplopia
+94,Headache
+95,Acute gastritis
+96,Tremor
+97,Ankle oedema
+98,Poor concentration
+99,Low motivation
+100,Muscle weakness
+101,Sleep pattern disturbance
+102,Myositis
+103,Alzheimer's disease
+104,Toothache
+105,Productive cough
+106,Speech impairment
+107,Uterine spasm
+108,Chest pain
+109,Pain in pelvis
+110,Ulcer of oesophagus
+111,Knee pain
+112,Polymyositis
+113,Trigeminal neuralgia
+114,Bronchitis
+115,Facial spasm
+116,Parkinsonism
+117,Restless legs
+118,Disorder of back
+119,Dehydration
+120,Haematuria
+121,Pain in the coccyx
+122,Tendonitis
+123,Dark stools
+124,Sensitivity
+125,Depression
+126,Arthralgia of multiple joints
+127,Burning feet
+128,Night pain
+129,Burning pain
+130,Deep pain
+131,Loss of taste
+132,Sinusitis
+133,Motor neurone disease
+134,Acenaesthesia
+135,Migraine
+136,Immunosuppression
+137,Hypertension
+138,Abnormal blood pressure
+139,Illness
+140,Hepatic trauma
+141,Stammering
+142,Urine looks dark
+143,Gallbladder disorder
+144,Renal injury
+145,Morning stiffness - joint
+146,Mild pain
+147,Heart valve regurgitation
+148,Infection
+149,Dysphagia
+150,Derealisation
+151,Confusion
+152,Hypothyroidism
+153,Eye pain
+154,Abdominal distension
+155,Male climacteric
+156,Polyneuropathy
+157,Renal failure
+158,Night sweats
+159,Shuffling gait
+160,Eczema
+161,Abdominal discomfort
+162,Body fluid retention
+163,Chill
+164,Cholestatic jaundice syndrome
+165,Type 2 diabetes mellitus
+166,Numbness
+167,Loss of sense of smell
+168,Dyssomnia
+169,Hyperactive behaviour
+170,Loss of voice
+171,Paralysis
+172,Shoulder pain
+173,Spasm
+174,Glossitis
+175,Abdominal wind pain
+176,Ulceration of colon
+177,Mood disorder
+178,Type 1 diabetes mellitus
+179,Absent minded
+180,Dysphonia
+181,Reflux
+182,Foot pain
+183,Amnesia
+184,Delusional disorder
+185,Muscle strain
+186,Peritonitis
+187,Anxiety
+188,Pain in spine
+189,Parkinson's disease
+190,Hip pain
+191,Periorbital oedema
+192,Cardiovascular disease
+193,Cough
+194,Hoarse
+195,Moderate pain
+196,Basic learning problem
+197,Stomach cramps
+198,Increased pressure
+199,Heat stroke
+200,Dementia
+201,Sweating problem
+202,Excessive sweating
+203,Chronic fatigue syndrome
+204,Polymenorrhoea
+205,Hand pain
+206,Mastalgia
+207,Coronary arteriosclerosis
+208,Upper respiratory tract infection
+209,Lower abdominal pain
+210,Charleyhorse
+211,Stabbing pain
+212,Breast tenderness
+213,Calcaneal spur
+214,Muscle cramp
+215,Hungry
+216,Forgetful
+217,Problem of visual accommodation
+218,Feeling irritable
+219,Wheezing
+220,Heart disease
+221,Abnormal muscle function
+222,Alopecia
+223,Pain in wrist
+224,Hypertonia
+225,Sexual dysfunction
+226,Nerve injury
+227,Carpal tunnel syndrome
+228,Arthralgia
+229,Excitement
+230,Blepharospasm
+231,Initial insomnia
+232,Hepatic failure
+233,Increased belching
+234,Unable to concentrate
+235,Exhaustion
+236,Muscle twitch
+237,Abdominal swelling
+238,Tinnitus
+239,Aggression
+240,Moderate anxiety
+241,Malaria
+242,Phlebitis
+243,Diarrhoea
+244,Disorientated
+245,Pins and needles
+246,Visual disturbance
+247,Orchidodynia
+248,Hypomenorrhoea
+249,Colitis
+250,Decrease in appetite
+251,Nasal discharge
+252,Ulcerative colitis
+253,Blood coagulation disorder
+254,Swelling
+255,Gingivitis
+256,Abnormal large bowel motility
+257,Middle insomnia
+258,Increased liver function
+259,Aortic aneurysm
+260,Excruciating pain
+261,Disorder of tendon
+262,Nasal congestion
+263,Arthritis of hip
+264,Urinary tract infection
+265,Myalgia
+266,Intolerant of heat
+267,Psychotic disorder
+268,Increased venous pressure
+269,Rheumatoid arthritis
+270,Rhinitis
+271,Haemorrhoids
+272,Eye strain
+273,Gingival oedema
+274,Limitation of joint movement
+275,Ulceration of gingivae
+276,Increased appetite
+277,Diabetes mellitus
+278,Stevens-Johnson syndrome
+279,Intervertebral disc prolapse
+280,Stress
+281,Pain in elbow
+282,Mental disorder
+283,Urgent desire to urinate
+284,Abnormal liver function
+285,Feeling angry
+286,Pancreatitis
+287,Endometriosis of uterus
+288,Postmenopausal bleeding
+289,Severe pain
+290,Degeneration of intervertebral disc
+291,Hypersomnia
+292,Decreased liver function
+293,Thigh pain
+294,Heavy feeling in eyelids
+295,Vaginospasm
+296,Worried
+297,Dry hair
+298,Loss of appetite
+299,Irregular menstruation
+300,Palpitations
+301,Muscle fatigue
+302,Hepatomegaly
+303,Intolerant of cold
+304,Degenerative disease of the central nervous system
+305,Respiratory depression
+306,Dental caries
+307,Encephalopathy
+308,Bursitis of hip
+309,Neck pain
+310,Neck pain
+311,Common cold
+312,Congestion of nasal sinus
+313,Chronic pain
+314,Muscle fasciculation
+315,Premenstrual tension syndrome
+316,Disturbance in speech rhythm
+317,Impaired mobility
+318,Generalised aches and pains
+319,Sense of smell impaired
+320,Failure to lose weight
+321,Cold sweat
+322,Sj鰃ren's syndrome
+323,Bursitis
+324,Heart failure
+325,Fatigue
+326,Joint stiffness
+327,Retching
+328,Extreme exhaustion
+329,Abnormal dreams
+330,Autoimmune disease
+331,Cardiomyopathy
+332,Amyotrophic lateral sclerosis
+333,Chronic rhinitis
+334,Pulse fast
+335,Aphasia
+336,Aptyalism
+337,Muscle atrophy
+338,Weight loss
+339,Loss of equilibrium
+340,Photosensitivity
+341,Pruritus ani
+342,Gout
+343,Burning sensation
+344,Kidney disease
+345,Pain in limb
+346,Paraesthesia
+347,Intraocular haemorrhage
+348,Skin nodule
+349,Disorder of skin
+350,Mucosal numbness
+351,Muscle spasms of head AND/OR neck
+352,Intercostal myalgia
+353,Subdural haematoma
+354,Renal calculus
+355,Ophthalmic migraine
+356,Paraesthesia of upper limb
+357,Disorder of vision
+358,Injury of muscle
+359,Influenza-like illness
+360,Generalised acute body pains
+361,Immobile
+362,Agony
+363,Cramp in foot
+364,Pain in upper limb
+365,Oedema of hand
+366,Oedema of finger
+367,Oedema of lower extremity
+368,Clammy skin
+369,Excessive appetite
+370,Congestion of throat
+371,Feeling intoxicated
+372,Thoughts of self harm
+373,Difficulty writing
+374,Personality change
+375,Sensation of hot and cold
+376,Blocked ears
+377,Severe vertigo
+378,Dependance on walking stick
+379,Disorder of cardiac function
+380,Dislocation of joint
+381,Joint tenderness
+382,Derangement of meniscus
+383,Blurring of visual image
+384,Abdominal bloating
+385,Disorder of face
+386,Disorder of foot
+387,Disorder of nervous system
+388,Epigastric discomfort
+389,Hammer toe
+390,Increased lipid
+391,Increased cholesterol esters
+392,Decreased cholesterol esters
+393,Joint injury
+394,Contusion
+395,Increased albumin
+396,Inflammatory disorder
+397,Injury of nervous system
+398,Infectious disease of lung
+399,Disorder of extremity
+400,Intracranial aneurysm
+401,Endometriosis
+402,Myopathy
+403,Impaired bed mobility
+404,Blood pressure alteration
+405,Sleep deprivation
+406,Decreased progesterone level
+407,Decreased testosterone level
+408,Bleeding
+409,Chronic back pain
+410,Drinks wine
+411,Bed-ridden
+412,Language difficulty
+413,Menstrual loss increasing
+414,Abnormal weight gain
+415,Heavy legs
+416,Heavy feeling
+417,Gland symptom
+418,Stiff neck
+419,Backache
+420,Falls
+421,Unable to stand
+422,Bumping heart
+423,Difficulty chewing
+424,Indigestion
+425,Hunger pain
+426,Upset stomach
+427,Excessive upper gastrointestinal gas
+428,Urinary frequency
+429,Restlessness
+430,Dry eyes
+431,Throbbing headache
+432,Morbid thoughts
+433,Buzzing in ear
+434,Ringing in ear
+435,Pain in throat
+436,Urinary incontinence
+437,Unable to climb stairs
+438,White blood cell count abnormal
+439,C-reactive protein abnormal
+440,Liver function tests abnormal
+441,Liver enzymes abnormal
+442,Raised serum calcium level
+443,Serum creatinine raised
+444,Serum cholesterol raised
+445,Serum triglycerides raised
+446,Random blood sugar raised
+447,Urine: dark/concentrated
+448,Shin splint
+449,Parvovirus infection
+450,Obsessive-compulsive disorder
+451,Anger reaction
+452,Temporal lobe epilepsy
+453,Cluster headache
+454,Bell's palsy
+455,Insomnia
+456,Cataract
+457,Angina
+458,Asthma
+459,Steatosis of liver
+460,Lupus erythematosus
+461,Hand joint pain
+462,Elbow joint pain
+463,Wrist joint pain
+464,Proximal interphalangeal joint of finger pain
+465,Ankle joint pain
+466,Clicking knee
+467,Clicking interphalangeal joint of toe
+468,Shoulder tendonitis
+469,Lateral epicondylitis
+470,Plantar fasciitis
+471,Spasm of back muscles
+472,Rupture tendon thigh
+473,Generally unwell
+474,Lethargy
+475,Tired
+476,Hot sweats
+477,Unable to control anger
+478,Feeling bad
+479,Feeling empty
+480,Constantly crying
+481,Feels everything is futile
+482,Lacks confidence
+483,Poor self-image
+484,Yellow skin
+485,Sight deteriorating
+486,Unable to move
+487,Stiff legs
+488,Stiff limbs
+489,Panic attack
+490,Fine motor impairment
+491,Walking disability
+492,Difficulty breathing
+493,Excessive day and night-time sleepiness
+494,Compression neuropathy of trunk
+495,Cerebrovascular accident
+496,Transient global amnesia
+497,Pneumonia
+498,Bowel dysfunction
+499,Liver disease
+500,Intra-abdominal haematoma
+501,Chronic diarrhoea
+502,Renal impairment
+503,Infective cystitis
+504,Functional disorder of bladder
+505,Bleeding between periods
+506,Metabolic syndrome X
+507,Overweight
+508,Hand eczema
+509,Flushing
+510,Tear of meniscus of knee
+511,Rupture of anterior cruciate ligament
+512,Osteoarthritis of knee
+513,Tendonitis AND/OR tenosynovitis of the elbow region
+514,Rupture of tendon of lower leg and ankle
+515,Contracture of tendon of ankle region
+516,Rhabdomyolysis
+517,Blurred vision - hazy
+518,Hyperaemia of surface of eye
+519,Blood clot in eye
+520,Scleral icterus
+521,Tightness in throat
+522,Discomfort
+523,Flank pain
+524,Ankle pain
+525,High pain threshold
+526,Labour pain
+527,Erythema
+528,Blistering rash
+529,Hives
+530,Poor short-term memory
+531,Unable to think clearly
+532,Loss of interest
+533,Reduced concentration
+534,Ill-at-ease
+535,Noise intolerance
+536,Lack of libido
+537,Craving for food or drink
+538,Feeling faint
+539,Mentally alert
+540,Mentally vague
+541,Cannot sleep at all
+542,Not getting enough sleep
+543,Always sleepy
+544,Tires quickly
+545,Lack of energy
+546,Lack of stamina
+547,Warm hands
+548,Bloating symptom
+549,Swollen knee
+550,Distention of blood vessel
+551,Rapid shallow breathing
+552,Palpitations - rapid
+553,Dropped beats - heart
+554,Pounding heart
+555,Prolonged periods
+556,Bleeding from nose
+557,Always hungry
+558,Increased thirst
+559,Choking
+560,Abdominal muscles tense
+561,Slow on legs
+562,Difficulty standing
+563,Difficulty standing up
+564,Ankle stiff
+565,Knee stiff
+566,Hip stiff
+567,Hand joint stiff
+568,Wrist stiff
+569,Elbow stiff
+570,Shoulder stiff
+571,Weakness of neck
+572,Weakness of back
+573,Shoulder girdle weakness
+574,Spasmodic movement
+575,Poor balance
+576,Unsteady when standing
+577,Muscle tension
+578,Hand cramps
+579,Cramp in calf
+580,Abdominal pressure
+581,Right ventricular dilatation
+582,Intracranial tumour
+583,Photosensitisation due to sun
+584,Weight increased
+585,Deep bruising
+586,Rupture of muscle
+587,Transient ischaemic attack
+588,Dysmenorrhoea
+589,Excessive and frequent menstruation
+590,Tiredness symptom
+591,Tired all the time
+592,Dyspnoea
+593,Oedema
+594,Swollen ankle
+595,Impaired exercise tolerance
+596,Gastrointestinal symptom
+597,Flatulence/wind
+598,Urinary retention
+599,Suicidal
+600,Feeling lonely
+601,Involuntary movement
+602,Trembles
+603,Blind or low vision - one eye only
+604,Shoulder joint pain
+605,Arthralgia of the upper arm
+606,Arthralgia of the lower leg
+607,Bad circulation - vasomotor change
+608,Cold hands
+609,Cold feet
+610,Stiffness
+611,Syncope
+612,Mental distress
+613,Feeling content
+614,Stomach ache
+615,General unsteadiness
+616,Anaemia
+617,Peeling of skin
+618,Joint swelling
+619,Drowsy
+620,Collapse
+621,Malaise and fatigue
+622,Taste sense altered
+623,Rash
+624,"Flatulence, eructation and gas pain"
+625,Burping
+626,"Abdominal distension, gaseous"
+627,Low blood pressure reading
+628,Senility
+629,Crying associated with mood
+630,C/O - feeling depressed
+631,Arthritis/arthrosis
+632,Tendon contracture
+633,Renal pain
+634,Irritability and anger
+635,Acute pain
+636,Chronic intractable pain
+637,Jaw pain
+638,Tingling of skin
+639,Swollen legs
+640,Scalp itchy
+641,Isolated memory skills
+642,Generalised pruritus
+643,Swollen nasal mucosa
+644,Loss of motivation
+645,Toe swelling
+646,Loss of hair
+647,Right hemiparesis
+648,Facial swelling
+649,Skin tenderness
+650,Ovarian pain
+651,Thoracic back pain
+652,Low back pain
+653,Pain in buttock
+654,Lumbar facet joint pain
+655,Musculoskeletal pain
+656,Chest discomfort
+657,Cramping pain
+658,Facial palsy
+659,Incoordination
+660,Musculoskeletal chest pain
+661,Viral upper respiratory tract infection
+662,Unable to walk
+663,Unable to walk up step
+664,Difficulty walking up stairs
+665,Unable to walk down stairs
+666,Unable to balance
+667,Unable to run
+668,Unable to stand up
+669,Unable to lie down
+670,Unable to bend down
+671,Unable to sit
+672,Abrasion of eye region
+673,Traumatic blister of mouth
+674,Cut of hand
+675,Has delayed recall
+676,Unable to move all four limbs
+677,Unable to move arm
+678,Difficulty moving arm
+679,Unable to move hand
+680,Difficulty moving hand
+681,Unable to move leg
+682,Unable to make a fist
+683,Difficulty gripping
+684,Difficulty dressing
+685,Spots on skin
+686,Pain in toe
+687,Strain of calf muscle
+688,Tightness in arm
+689,Difficulty controlling anger
+690,Unable to speak
+691,Unable to find words
+692,Unable to initiate words
+693,Moody
+694,Fragile self-esteem
+695,Impatient character
+696,Pain in left arm
+697,Pain in right arm
+698,Pain in left leg
+699,Myalgia/myositis - multiple
+700,Myalgia/myositis - shoulder
+701,Myalgia/myositis - upper arm
+702,Myalgia/myositis - forearm
+703,Myalgia/myositis -pelvis/thigh
+704,Myalgia/myositis - lower leg
+705,Unable to lift
+706,Difficulty lifting
+707,Unable to eat
+708,Difficulty swallowing
+709,Unable to feed self
+710,Slurred speech
+711,Vaginal bleeding
+712,Uterus problem
+713,Pain of uterus
+714,Menopause present
+715,Foot swelling
+716,Swollen feet
+717,Rib pain
+718,Knee joint inflamed
+719,Joint laxity
+720,Sacroiliac joint stiff
+721,Foot joint stiff
+722,Tenderness of upper limb
+723,Numbness of upper limb
+724,Elbow joint swelling
+725,Swelling of wrist joint
+726,Swelling of hand
+727,Weakness of hand
+728,Swelling of finger
+729,Finger joint locking
+730,Swelling of knee joint
+731,Knee joint painful on movement
+732,Vibration sensation present
+733,Tightness sensation
+734,Reduction of bulk of muscle
+735,Stomach problem
+736,Frequent defaecation
+737,Gastrointestinal tract problem
+738,Difficulty riding a bicycle
+739,Swelling of body region
+740,Anxiety attack
+741,Pain in calf
+742,Pain in thumb
+743,Low back strain
+744,Loss of confidence
+745,Nasal sinus problem
+746,Difficulty sleeping
+747,Unable to get out of a chair
+748,Difficulty getting out of a chair
+749,Unable to get off a bed
+750,Difficulty getting off a bed
+751,Right upper quadrant pain
+752,Bad taste in mouth
+753,Peripheral neuropathy
+754,Decreased range of shoulder movement
+755,Crying
+756,Feeling high
+757,Feeling hopeless
+758,Transient memory loss
+759,Diverticulitis
+760,Injury of tendon of the rotator cuff of shoulder
+761,Parkinsonian tremor
+762,Neurological symptom
+763,Digestive symptom
+764,Paraesthesia of hand
+765,Paraesthesia of foot
+766,Calf muscle weakness
+767,Cold foot
+768,Excessive weight loss
+769,Numbness of hand
+770,Numbness of finger
+771,Numbness of lower limb
+772,Numbness of foot
+773,Numbness of toe
+774,Numbness of face
+775,Weakness of limb
+776,Emotional upset
+777,Mild depression
+778,Severe depression
+779,Numbness of limbs
+780,Feeling tired
+781,Intermittent pain
+782,Deteriorating renal function
+783,Heavy episode of vaginal bleeding
+784,Influenza-like symptoms
+785,Uncontrollable vomiting
+786,Impairment level of vision
+787,Irregular heart beat
+788,Irregular heart rate
+789,Degenerative disorder of muscle
+790,Malignant neoplastic disease
+791,Malignant tumour of colon
+792,Malignant tumour of spleen
+793,Depressed mood
+794,Malaise
+795,Skin irritation
+796,Major depressive disorder
+797,Arthritis of knee
+798,Disorder of eye
+799,Coma
+800,Large breast
+801,Sensation of heaviness in limbs
+802,Feels hot
+803,Neuropathy
+804,Fever
+805,Menorrhagia
+806,Lightheadedness
+807,Mild cognitive disorder
+808,Impaired cognition
+809,Memory impairment
+810,Impairment of balance
+811,Cervical arthritis
+812,Osteoarthritis
+813,Visual impairment
+814,Severe visual impairment
+815,Erectile dysfunction
+816,Gastric ulcer
+817,Loose stool
+818,Ehlers-Danlos syndrome
+819,Decreased muscle tone
+820,Poor muscle tone
+821,Pale complexion
+822,Glossopyrosis
+823,Malignant tumour of prostate
+824,Adhesive capsulitis of shoulder
+825,Swallowing problem
+826,Vertigo
+827,Arthropathy
+828,Fear of falling
+829,Foot eczema
+830,Dizziness
+831,Haematochezia
+832,Scab of skin
+833,Impending shock
+834,Sweating
+835,Bunion
+836,Rupture of tendon
+837,Furuncle
+838,Blister
+839,Respiratory tract congestion
+840,Itching
+841,Itching of skin
+842,Blackout
+843,Allergic reaction
+844,Nightmares
+845,Propensity to adverse reactions to drug
+846,Bizarre dreams
+847,Mentally dull
+848,Feeling unhappy
+849,Watery eye
+850,Tunnel vision
+851,Tongue swelling
+852,Vomiting
+853,Nausea
+854,Frequent night waking
+855,Iliotibial band friction syndrome
+856,Easy bruising
+857,Feeling nervous
+858,Oedema of extremity
+859,Stress overload
+860,Cramp in limb
+861,Pain provoked by movement
+862,Tendonitis of foot
+863,Pain provoked by rest
+864,Constant pain
+865,Pain provoked by walking
+866,Aphthous ulcer
+867,Pain radiating to lumbar region of back
+868,Malignant neoplasm of brain
+869,Malignant neoplasm of bone
+870,Arthropathy of knee joint
+871,Ulcer
+872,Traumatic injury of skeletal muscle
+873,Tendonitis of knee
+874,Rupture of Achilles tendon
+875,Neuroma of foot
+876,Paraesthesia of lower extremity
+877,Menstrual cramp
+878,Increased creatine kinase level
+879,Elevated cholesterol/high density lipoprotein ratio
+880,Irritable bowel syndrome characterised by constipation
+881,Inflammation of ligament
+882,Type II diabetes mellitus uncontrolled
+883,Arthritis of shoulder region joint
+884,Neuroma
+885,Disorder of joint of shoulder region
+886,Haemorrhage of abdominal cavity structure
+887,Irregular bowel habits
+888,Erythema of skin
+889,Pain in forearm
+890,Burning sensation of vagina
+891,White discolouration of skin
+892,Raised low density lipoprotein cholesterol
+893,Arthritis of hand
+894,Swelling of lower limb
+895,Swelling of upper limb
+896,Cramp in lower limb
+897,Cramp in lower leg
+898,Severe dehydration
+899,Pain in cheek
+900,Allergic condition
+901,Necrosis of anatomical site
+902,Neuropathy of upper limb
+903,Neuropathy of lower limb
+904,Acid reflux
+905,Cardiac arrhythmia
+906,Post traumatic osteoarthritis
+907,Lumbar arthritis
+908,Symptom of ankle
+909,Lip swelling
+910,Numbness and tingling sensation of skin
+911,Daily headache
+912,Andrews Tums Antacid
+913,Nasonex Aqueous
+914,Panadeine
+915,Seroquel
+916,Naprosyn
+917,Enbrel
+918,Lasix
+919,Voltaren
+920,Rhinocort Aqueous
+921,Voltaren Emulgel
+922,Efexor-XR
+923,Lescol
+924,Epipen Auto-Injector
+925,paracetamol + ibuprofen
+926,Stumbling gait
+927,magnesium
+928,Fosamax
+929,Nexium
+930,Premarin
+931,Tagamet
+932,Olmetec
+933,Tylenol
+934,Prinivil
+935,Lexapro
+936,Lipex
+937,Arthrotec
+938,Plavix
+939,Xanax
+940,Lopid
+941,Zoloft
+942,Zantac
+943,Mobic
+944,Ezetrol
+945,Atacand
+946,Oxycontin
+947,Avandia
+948,Pravachol
+949,Lipitor
+950,Zocor
+951,Capoten
+952,Crestor
+953,Lipidil
+954,Deseril
+955,Celebrex
+956,Norvasc
+957,Zestril
+958,Neurontin
+959,Noten
+960,Lipitor 20 mg tablet: film-coated
+961,Lipitor 40 mg tablet: film-coated
+962,Celebrex 200 mg capsule: hard
+963,oestradiol
+964,simvastatin
+965,morphine
+966,paracetamol + codeine
+967,diclofenac
+968,Testosterone
+969,testosterone
+970,rabeprazole
+971,naproxen
+972,enalapril
+973,amlodipine
+974,atorvastatin
+975,ramipril
+976,fenofibrate
+977,paracetamol
+978,lisinopril
+979,tramadol
+980,prednisone
+981,misoprostol
+982,pseudoephedrine
+983,ezetimibe + simvastatin
+984,clonidine
+985,methylprednisolone
+986,pravastatin
+987,atenolol
+988,gemfibrozil
+989,metoprolol
+990,omeprazole
+991,meloxicam
+992,aspirin
+993,glipizide
+994,cortisone
+995,diclofenac + misoprostol
+996,hydrochlorothiazide
+997,codeine
+998,bisoprolol
+999,ibuprofen
+1000,glibenclamide
+1001,ezetimibe
+1002,fenofibrate 145 mg tablet
+1003,olive oil
+1004,potassium
+1005,Toprol-XL
+1006,Lyrica
+1007,pethidine
+1008,Cymbalta
+1009,dextropropoxyphene + paracetamol
+1010,zinc
+1011,vitamin A
+1012,Cozaar
+1013,Solaraze
+1014,Voltaren Rapid
+1015,Advil
+1016,Aleve
+1017,Diovan
+1018,Voltaren Rapid 25 mg tablet: sugar-coated
+1019,codeine + ibuprofen
+1020,glucosamine
+1021,capsaicin
+1022,caffeine
+1023,ibuprofen 5% gel
+1024,B Complex (Cenovis)
+1025,pyridoxine
+1026,ubidecarenone
+1027,lysine
+1028,ascorbic acid
+1029,fish oil natural
+1030,cyanocobalamin
+1031,alpha tocopherol
+1032,soy lecithin
+1033,Maxalt
+1034,melatonin
+1035,omega-3-acid ethyl esters-90
