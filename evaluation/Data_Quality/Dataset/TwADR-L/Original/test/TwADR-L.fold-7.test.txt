@@ -1,0 +1,142 @@
+C0003469||zero stress tolerance
+C0030319||anxiety
+C0152128||crashing
+C0003469||anxiety
+C0410158||rotted my muscles
+C0000737||awful feeling in my stomach
+C2939186||had me in my feelings
+C0149931||migraines
+C0008031||my chest is exploding
+C0030193||worst pain
+C2939186||had me in my feelings
+C0541854||tired
+C0549259||incr anxiety
+C0392674||so fucking tired
+C0003469||ANXIOUS
+C0030193||pain
+C2939186||had me in my feelings
+C0344315||hurting
+C0013146||HIGH
+C0037317||Got 1.5 hours of sleep
+C0087169||withdrawal symptoms
+C0270458||bipolar
+C0022107||attitude
+C0235169||had me in my feelings
+C0232461||appetite on 10
+C0728899||trippin
+C0013595||itching
+C0851444||sun allergy
+C0344315||feel like complete and utter crap
+C0030193||throbbing
+C0042963||vomiting
+C0002957||the fucking roid rage
+C0087169||venlafaxine withdrawal
+C0917801||sleep-deprived
+C1963951||30-day adderall supply lasts me like a week
+C0233514||behaviour problems
+C0151827||eyes burn from lack of blinking
+C0520962||terrible joint pain
+C0234238||Achy
+C0151911||random shoulder spasms
+C0087169||withdrawal
+C0041657||fainting
+C0553668||Stops your breathing
+C0085632||have no emotions
+C0013144||sleepy
+C0344320||man vivid dreams
+C0027497||vomity
+C0018681||headaches
+C0015672||fall asleep
+C0028643||a damn zombie
+C0087169||withdrawal symptoms
+C0085633||angry 2 irritable 2 mind swimming 2 feeling numb 2 being completely calm
+C0455769||got me to the ceiling
+C0087169||withdrawal
+C2830004||i can't even stay awake
+C1386135||just want to finally be happy
+C0235165||manic episode
+C0855242||kills libido
+C1456784||paranoid
+C0236788||BP-2
+C0232461||eat like the literal beast
+C0338831||got me like WHENS THE NEXT TEST ILL GO AHEAD AND TAKE IT NOW
+C0012833||lightheaded
+C2830004||falling asleep
+C0042109||urticaria
+C0039070||faint
+C0233415||distracted
+C0541799||mouth taste terrible
+C0235196||suicidal thoughts
+C0026821||cramps
+C0087169||withdrawal
+C0409497||knee cap is moving around, causing pain
+C0338908||me feel disgusting
+C0033975||crazy
+C0087169||withdrawal
+C3665386||messing with my vision
+C0917801||alertness and trouble sleeping
+C0042963||puking everywhere
+C1510472||I'm going to be so pissed if this ends with me getting my adderall prescription taken away...
+C0232462||lose my appetite
+C0235169||got me to the ceiling
+C0041671||distracted
+C0011991||have to poop
+C0013144||sleepy
+C0003467||feeling worried
+C0087169||withdrawal
+C0037763||brain zaps
+C0027497||sickness
+C0344315||makes you feel like crap
+C0012833||dizzy
+C0234428||focusing monster
+C0016512||ankle hurts
+C0037317||fucked my entire sleeping pattern
+C0038990||sweatty
+C0424295||feel like doing something
+C0012833||dizziness
+C2364111||couldn't taste anything
+C2939186||bitch
+C0497364||break out in hives
+C0015967||Wet Hot
+C0917801||zombie
+C2830004||sleepy
+C0005586||#bipolar
+C0393760||insomniac
+C0151908||dry skin
+C0549259||anxiety
+C0013146||adderall binge
+C0020175||#hungry
+C0027497||spins
+C0087169||withdrawal
+C0231749||need cortisone shots for my knees
+C0002957||angry
+C0011551||empty
+C0043012||alertness
+C0235169||got meto the ceiling
+C0917801||sleep deprived
+C0038990||sweatty
+C0030193||pain
+C0344320||mad vivid dreams
+C0235169||to the ceiling
+C0455769||energetic
+C0344315||depressed
+C0018524||tripping
+C0015672||lazy days
+C1262141||wrecking my sleep
+C0011551||zombie
+C0013144||sleepy
+C0392674||sleep deprived
+C0022107||resting bitch face
+C0235169||got me in my feelings
+C0917801||Wide awake
+C0858899||procrastinating
+C0028643||can't feel limbs
+C0043094||gaining weight
+C0086132||loneliness
+C0043094||pre-prozac-weight-gain-nightmare
+C0233414||getting distracted every 5 minutes
+C0235169||in my feelings
+C0393761||keeping me awake
+C0042256||itching
+C0541854||zombies
+C0086769||panic attack

@@ -1,0 +1,142 @@
+C0028643||paraplegic
+C0087169||withdrawal symptoms
+C0034634||angry
+C0028643||my pinky toe feel like it was chopped clean off
+C0043012||wide awake
+C0235169||hyped
+C0232461||eating to survive
+C0241934||hypomanic
+C0011991||very mild diarrhea
+C0520962||makes my fingers hurt
+C0278061||completely bonkers
+C0556446||addicted
+C0003467||anxiety
+C2937350||nut came out like water
+C0011570||depression
+C0455769||got me to the ceiling
+C0003467||anxiety
+C0043094||the 10 lbs I gained
+C3536794||feel like shit
+C2830004||fall asleep
+C0233401||feeling proper psycho
+C0013144||weak and woozy
+C0151836||paranoid
+C2830004||tired
+C0012833||dizzy
+C2830004||sleepy
+C0700031||panic attacks
+C0858899||focus like a wimp
+C0233488||feeling like shit
+C2830004||take naps
+C0043094||30lbs that I gained
+C0003864||Arthritis
+C0039971||thirsty
+C0042963||puking
+C0853348||Can't wait for fall so the mosquitoes will go away and I can stop using cortisone cream as lotion all over my legs
+C0455769||got me to the ceiling
+C0751494||seizure
+C0015672||zombie
+C0012833||dizzy
+C0751295||screwing with my short term memory
+C0700031||anxiety
+C0235169||got me to the ceiling
+C0235890||migraines
+C0278061||this mindset
+C0541798||I'm up
+C0152128||I forgot to take Zoloft for like 2 days and now I'm getting brain zaps
+C0043012||wake you up
+C0013144||slows me down
+C0022107||makes me an asshole
+C0917801||I was up at 6 am
+C0041671||ADD
+C0043094||weight gain
+C0004096||gulp air randomly
+C0917801||insomnia
+C0424295||uncontrollable
+C0855242||kills libido
+C0278061||bazaar thoughts
+C0235169||meinmy feelings
+C0234369||shaking
+C0596170||Prednisone munchies
+C0043094||gaining weight
+C1510472||reliant
+C0232462||eaten less
+C0087169||withdrawal
+C0020175||hungry
+C2939186||FUCKED UP feelings
+C0034634||rage
+C0549209||jitters
+C0278079||useless without
+C0013144||drowsy
+C0851444||allergic reaction
+C0022107||sour mood
+C0043012||still haven't slept
+C0917801||insomnia
+C0233459||emotional fasting
+C0013144||drowsy
+C0235169||in my feelings
+C0005586||bipolar
+C0028643||numbness
+C0858899||concentration issues
+C0424166||~public~ friendly
+C0233488||despair
+C0030193||pain
+C1971624||not hungry
+C0232461||hungry/thirsty
+C0600104||incredibly anal
+C0003123||not eating
+C0036973||shaking
+C0152128||crashing
+C0853619||lower extremities swelling up
+C0344315||feel like shit
+C0234376||tremor
+C0034634||monster
+C0041657||knocked me out
+C0027497||dry heaving
+C0344315||depressed
+C0851578||knock you out
+C2830004||sleepy
+C0241934||hypomania
+C0152128||withdrawal brain zaps
+C0233459||Drove me mad
+C0424295||up all morning
+C0012833||dizziness
+C0043094||making me fat
+C0455769||got me to the ceiling
+C0392674||tired
+C0028643||numbness in my limbs
+C0859023||cant shut up for the whole day
+C0520962||muscular, joint, nerve pain
+C0917801||insomnia
+C0034634||Satan
+C0541854||fell asleep
+C0034634||angry
+C0858899||focused
+C0087169||withdrawal
+C0087169||Discontinuation symptoms
+C2830004||I lost my Adderall so I fell asleep super quick
+C0038999||urticaria
+C0022107||rantful
+C0917801||sleep-deprived
+C0043096||weight loss
+C0455769||got me to the ceiling
+C0018681||headaches
+C0917801||feeling like the same day
+C0018524||mad hallucinations
+C0235195||docile
+C0018681||migraines
+C0853348||chiggers
+C0030252||heart palpitations
+C0018524||permanent hallucinations
+C0030193||get rid of the pain
+C0235146||GETTING HIGH
+C0455769||strengthens me
+C0424295||do everything
+C0030583||parotid gland swelling
+C0278061||feel weird
+C0027497||sick
+C0522224||paralyzed
+C0235195||calms me down
+C0235169||got me to the ceiling
+C0043012||trying to get tired
+C0030193||feel like I was hit by a train.

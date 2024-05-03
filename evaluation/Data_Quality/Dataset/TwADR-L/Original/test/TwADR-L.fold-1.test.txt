@@ -1,0 +1,143 @@
+C0011991||diarrhea
+C0022107||mean
+C0027497||nausea
+C0233488||despair
+C0003467||anxious
+C0455769||got me to the ceiling
+C0003467||anxiety
+C0393761||Insomnia
+C0043012||would go 48 hours
+C0270458||sick
+C0520962||joints are also hurting
+C2939186||hadmeinmy feelings
+C0424295||got me uppppp
+C0152128||crash
+C0541854||make you a zombie
+C0541941||make your dick hard
+C0003467||makes me question my whole life
+C0233407||very stupid
+C0042963||puking
+C0233794||screwing with my short term memory
+C0018524||feeling very differen
+C0027497||sick
+C0039971||thirsty
+C2830004||Tired
+C0917801||Wide awake
+C0003467||anxious
+C0220870||dizzy
+C0018790||heart attack
+C0455769||got me to the ceiling
+C0003467||anxiety
+C0022107||attitude
+C0043094||making me fat
+C0220870||dizzy
+C0232431||scold sweat
+C0549385||feel like I'm on fire
+C0600104||neat freak mode
+C0043094||gain weight
+C0016512||my foot feel worse
+C0233414||I can't work
+C0037320||night terrors
+C0152128||withdrawals
+C0022107||grumpy
+C0600104||to do stuff
+C0520962||hip pain
+C0027497||nauseous feeling
+C0043012||wide awake
+C0087169||withdrawal
+C0553668||can't breathe
+C0393761||awake in the middle of the night
+C0087169||an adderall crash
+C2242996||tingling
+C1443060||feel like a malnourished toe
+C0027497||nausea
+C0018524||feeling like the same day
+C0220870||faint
+C0455769||jacked up
+C2830004||groggy
+C0013144||drowsy
+C0013146||30-day adderall supply lasts me like a week
+C0028643||can't feel limbs
+C0235198||inattentive
+C0853348||bug bites
+C0027497||nauseous
+C0233488||feeling awful
+C0278061||trippin
+C0728899||trippin
+C0022107||angry
+C2939186||had me in my feelings
+C0917801||trying to get tired
+C0542476||forgot
+C0086132||empty/hopeless
+C0041657||i'm going to pass out
+C0043094||lose weight
+C0043094||If I could lose the 30lbs that I gained from prednisone
+C0455769||got me to the ceiling
+C0270458||I am so sick and angry
+C0037383||sneezing
+C0004936||insane
+C0497364||the rash
+C0030193||living in pain
+C2939186||had me in my feelings
+C0233514||behaviour problems
+C0235169||got me to the ceiling
+C0038999||a general discomfort from swelling
+C0476273||Stops your breathing
+C0012833||dizziness
+C0030252||to speed up my hear
+C1263846||hyperactive
+C0027497||nausea
+C0455769||makes your body awake
+C0235146||false high
+C0043094||gain 10kg
+C0022107||serious resting bitch face
+C0427086||shaking her leg
+C0344315||shitty
+C1456784||paranoid
+C2830004||falling asleep
+C0917801||awake
+C0037317||Got 1.5 hours of sleep
+C0853348||mosquito bites
+C2830004||falling asleep
+C0043012||losing my mind
+C0221785||wrist
+C0013144||light will go out of my eyes soon
+C1510472||reliant
+C0037274||havoc with our skins
+C0476273||asthma
+C0149931||headache
+C0232462||not eating
+C0393760||insomnia
+C0022107||rantful
+C2830004||knock me out
+C0015672||still falling asleep
+C1443060||Feeling completely bonkers
+C0596170||eat like the literal beast that you feel
+C0424000||I want to overdose
+C0011551||zombie like state
+C0393760||awake all the time
+C0033975||I feel like the devil is living inside my brain, forcing me to think these bazaar thoughts
+C1291077||makes me so damn bloated
+C0038999||swollen from a bug bite
+C0235169||got me in my feelings
+C0600104||clean the house
+C0232461||my appetite way up
+C0455769||got me to the ceiling
+C0549385||run a little hotter
+C0152030||Slightly itch
+C0232461||literally eaten a whole pizza
+C1443060||feeling awful
+C0027497||wanted to vent
+C0393760||I CANT SLEEP
+C0270458||sick
+C0087169||withdrawal symptoms
+C0043094||weight gain
+C0043012||wireddddddd
+C2939186||mood swings
+C0015672||tired
+C0009676||confused
+C2939186||had me in my feelings
+C0235169||got me to the ceiling
+C0278061||bonkers
+C0028643||numbness
+C0012833||head spinning a little

@@ -1,0 +1,867 @@
+21545007||Tenalgia
+288230000||Myalgia/myositis -pelvis/thigh
+3877011000036101||Lipitor
+45326000||Shoulder pain
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+21565011000036108||ezetimibe + simvastatin
+60032008||Unable to concentrate
+248274002||Lack of energy
+238131007||Overweight
+102943000||Personality change
+277521002||Loss of motivation
+76948002||Severe pain
+21417011000036105||fenofibrate
+309774006||Weakness of limb
+424647005||Cramp in limb
+84229001||Fatigue
+271681002||Stomach ache
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+399153001||Vertigo
+62507009||Pins and needles
+444899003||Pain in forearm
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+37796009||Migraine
+40196000||Mild pain
+22253000||Pain
+3877011000036101||Lipitor
+26544005||Muscle weakness
+76948002||Severe pain
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+386807006||Memory impairment
+22298006||Myocardial infarction
+309774006||Weakness of limb
+14760008||Constipation
+22253000||Pain
+118932009||Disorder of foot
+102556003||Pain in upper limb
+128139000||Inflammatory disorder
+162076009||Excessive upper gastrointestinal gas
+69896004||Rheumatoid arthritis
+18963009||Mood swings
+84946008||Extreme exhaustion
+16269008||Neuralgia
+128139000||Inflammatory disorder
+103281005||Blocked ears
+3877011000036101||Lipitor
+246636008||Blurred vision - hazy
+48167000||Amnesia
+162076009||Excessive upper gastrointestinal gas
+297217002||Rib pain
+35918011000036106||Cymbalta
+300954003||Pain in calf
+45352006||Spasm
+68962001||Myalgia
+230736007||Transient global amnesia
+432352001||Increased creatine kinase level
+289903006||Menopause present
+3723001||Arthritis
+300954003||Pain in calf
+3723001||Arthritis
+3877011000036101||Lipitor
+26329005||Poor concentration
+63102001||Visual disturbance
+30989003||Knee pain
+444312002||Haemorrhage of abdominal cavity structure
+297142003||Foot swelling
+248236005||Mentally vague
+3877011000036101||Lipitor
+418290006||Itching
+35489007||Depression
+52448006||Dementia
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+82639001||Premenstrual tension syndrome
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+284149003||Difficulty moving hand
+55300003||Muscle cramp
+3384011000036100||Arthrotec
+4344011000036106||Neurontin
+3877011000036101||Lipitor
+422400008||Vomiting
+18101008||Hyperactive bowel sounds
+289903006||Menopause present
+22253000||Pain
+30989003||Knee pain
+250069006||Muscle tension
+81680005||Neck pain
+386033004||Neuropathy
+193570009||Cataract
+3877011000036101||Lipitor
+102556003||Pain in upper limb
+267044007||Impaired exercise tolerance
+82991003||Generalised aches and pains
+2733002||Heel pain
+10601006||Pain in lower limb
+282145008||Unable to walk
+22253000||Pain
+77547008||Degeneration of intervertebral disc
+69791001||Increased venous pressure
+248274002||Lack of energy
+301345002||Difficulty sleeping
+432352001||Increased creatine kinase level
+386806002||Impaired cognition
+48167000||Amnesia
+193462001||Insomnia
+131148009||Bleeding
+76948002||Severe pain
+47401000168109||Lescol
+79890006||Loss of appetite
+429360005||Tendonitis of knee
+161891005||Backache
+61372001||Aggression
+161891005||Backache
+193462001||Insomnia
+3877011000036101||Lipitor
+449917004||Cramp in lower limb
+202882003||Plantar fasciitis
+68962001||Myalgia
+3877011000036101||Lipitor
+76948002||Severe pain
+84114007||Heart failure
+418363000||Itching of skin
+25064002||Headache
+13791008||Asthenia
+88092000||Muscle atrophy
+55300003||Muscle cramp
+309774006||Weakness of limb
+3384011000036100||Arthrotec
+3384011000036100||Arthrotec
+22253000||Pain
+57676002||Arthralgia
+3877011000036101||Lipitor
+404640003||Dizziness
+3877011000036101||Lipitor
+3384011000036100||Arthrotec
+22253000||Pain
+21589011000036108||clonidine
+3877011000036101||Lipitor
+56608008||Pain in wrist
+10601006||Pain in lower limb
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+84229001||Fatigue
+230145002||Difficulty breathing
+25064002||Headache
+125667009||Contusion
+49218002||Hip pain
+68962001||Myalgia
+129565002||Myopathy
+289195008||Slurred speech
+76948002||Severe pain
+271681002||Stomach ache
+247592009||Poor short-term memory
+65124004||Swelling
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+371632003||Coma
+73211009||Diabetes mellitus
+162059005||Upset stomach
+193462001||Insomnia
+248491001||Swollen knee
+193462001||Insomnia
+82971005||Impaired mobility
+387603000||Impairment of balance
+282145008||Unable to walk
+3877011000036101||Lipitor
+16331000||Heartburn
+233604007||Pneumonia
+129859006||Impaired bed mobility
+55300003||Muscle cramp
+68962001||Myalgia
+47933007||Foot pain
+68962001||Myalgia
+267036007||Dyspnoea
+3384011000036100||Arthrotec
+68962001||Myalgia
+246636008||Blurred vision - hazy
+22253000||Pain
+3877011000036101||Lipitor
+68235000||Nasal congestion
+267036007||Dyspnoea
+3877011000036101||Lipitor
+3723001||Arthritis
+302188001||Bad taste in mouth
+68962001||Myalgia
+22253000||Pain
+3877011000036101||Lipitor
+13791008||Asthenia
+47933007||Foot pain
+22298006||Myocardial infarction
+57676002||Arthralgia
+90673000||Burning sensation
+48500005||Delusional disorder
+68962001||Myalgia
+68962001||Myalgia
+302226006||Peripheral neuropathy
+79890006||Loss of appetite
+309774006||Weakness of limb
+124054003||Increased cholesterol esters
+63102001||Visual disturbance
+249938007||Weakness of back
+193462001||Insomnia
+10601006||Pain in lower limb
+22253000||Pain
+3877011000036101||Lipitor
+35489007||Depression
+22253000||Pain
+55300003||Muscle cramp
+249917001||Elbow stiff
+37796009||Migraine
+22253000||Pain
+39575007||Urine looks dark
+16973004||Limping
+26237000||Ankle oedema
+166830008||Serum cholesterol raised
+22253000||Pain
+57676002||Arthralgia
+25064002||Headache
+44695005||Paralysis
+267036007||Dyspnoea
+248490000||Bloating symptom
+3877011000036101||Lipitor
+129565002||Myopathy
+3877011000036101||Lipitor
+247347003||Discomfort
+3877011000036101||Lipitor
+131148009||Bleeding
+300306001||Stomach problem
+3877011000036101||Lipitor
+224960004||Tired
+3384011000036100||Arthrotec
+3384011000036100||Arthrotec
+76948002||Severe pain
+449917004||Cramp in lower limb
+95655001||Ophthalmic migraine
+161891005||Backache
+162397003||Pain in throat
+6471006||Suicidal thoughts
+162076009||Excessive upper gastrointestinal gas
+84229001||Fatigue
+81680005||Neck pain
+49049000||Parkinson's disease
+286651000||Fragile self-esteem
+84229001||Fatigue
+248096004||Lack of libido
+200936003||Lupus erythematosus
+3904011000036106||Zocor
+55300003||Muscle cramp
+7973008||Abnormal vision
+415690000||Sweating
+84445001||Joint stiffness
+26929004||Alzheimer's disease
+281245003||Musculoskeletal chest pain
+2297011000036108||magnesium
+162116003||Urinary frequency
+3877011000036101||Lipitor
+13164000||Reduced visual acuity
+8357008||Reduced libido
+60238002||Muscle twitch
+248096004||Lack of libido
+39104002||Illness
+165509000||White blood cell count abnormal
+56608008||Pain in wrist
+3877011000036101||Lipitor
+82991003||Generalised aches and pains
+131148009||Bleeding
+128239009||Injury of nervous system
+271587009||Stiffness
+3877011000036101||Lipitor
+57676002||Arthralgia
+22253000||Pain
+267031002||Tiredness symptom
+78860006||Heavy feeling in eyelids
+22253000||Pain
+247373008||Ankle pain
+271681002||Stomach ache
+101000119102||Numbness and tingling sensation of skin
+177241000036105||paracetamol + ibuprofen
+4031011000036106||Crestor
+74323005||Pain in elbow
+3066011000036105||Olmetec
+22253000||Pain
+230690007||Cerebrovascular accident
+162031009||Indigestion
+37796009||Migraine
+3877011000036101||Lipitor
+21779011000036103||cortisone
+3877011000036101||Lipitor
+267031002||Tiredness symptom
+86044005||Amyotrophic lateral sclerosis
+285365001||Pain in toe
+55929007||Feeling irritable
+10601006||Pain in lower limb
+282195009||Difficulty walking up stairs
+3877011000036101||Lipitor
+224960004||Tired
+161873000||Heavy legs
+62507009||Pins and needles
+56265001||Heart disease
+68962001||Myalgia
+4171011000036100||Celebrex
+62507009||Pins and needles
+399269003||Arthropathy
+25064002||Headache
+202882003||Plantar fasciitis
+64531003||Nasal discharge
+162076009||Excessive upper gastrointestinal gas
+166717003||Serum creatinine raised
+118932009||Disorder of foot
+309539008||Numbness of toe
+3877011000036101||Lipitor
+22298006||Myocardial infarction
+162076009||Excessive upper gastrointestinal gas
+166830008||Serum cholesterol raised
+3877011000036101||Lipitor
+22253000||Pain
+7011001||Hallucinations
+131078003||Decreased testosterone level
+289530006||Vaginal bleeding
+277521002||Loss of motivation
+299110002||Finger joint locking
+26544005||Muscle weakness
+22253000||Pain
+24700007||Multiple sclerosis
+68566005||Urinary tract infection
+18876004||Pain in finger
+124054003||Increased cholesterol esters
+224960004||Tired
+309521004||Numbness of hand
+10601006||Pain in lower limb
+22253000||Pain
+161903000||Unable to stand
+247592009||Poor short-term memory
+48167000||Amnesia
+246975001||Scleral icterus
+29542008||Uterine spasm
+3877011000036101||Lipitor
+12584003||Bone pain
+40144003||Morning stiffness - joint
+76948002||Severe pain
+10601006||Pain in lower limb
+162059005||Upset stomach
+449917004||Cramp in lower limb
+26544005||Muscle weakness
+271587009||Stiffness
+3877011000036101||Lipitor
+271807003||Rash
+246636008||Blurred vision - hazy
+301345002||Difficulty sleeping
+288231001||Myalgia/myositis - lower leg
+3877011000036101||Lipitor
+3848011000036104||Pravachol
+84229001||Fatigue
+449917004||Cramp in lower limb
+29542008||Uterine spasm
+397540003||Visual impairment
+30989003||Knee pain
+13791008||Asthenia
+3877011000036101||Lipitor
+12063002||Rectal haemorrhage
+4171011000036100||Celebrex
+289621007||Uterus problem
+36630001||Deep pain
+76948002||Severe pain
+284252000||Unable to make a fist
+23924001||Tight chest
+68962001||Myalgia
+267064002||Urinary retention
+102480002||Generalised acute body pains
+271681002||Stomach ache
+3877011000036101||Lipitor
+193462001||Insomnia
+193462001||Insomnia
+271587009||Stiffness
+3384011000036100||Arthrotec
+30989003||Knee pain
+22253000||Pain
+248490000||Bloating symptom
+49218002||Hip pain
+68962001||Myalgia
+3723001||Arthritis
+74323005||Pain in elbow
+22253000||Pain
+76948002||Severe pain
+449917004||Cramp in lower limb
+3877011000036101||Lipitor
+161891005||Backache
+22253000||Pain
+6142004||Influenza
+62315008||Diarrhoea
+279039007||Low back pain
+39104002||Illness
+271832001||Flatulence, eructation and gas pain
+102480002||Generalised acute body pains
+29857009||Chest pain
+68962001||Myalgia
+161891005||Backache
+14760008||Constipation
+25064002||Headache
+47933007||Foot pain
+48167000||Amnesia
+45326000||Shoulder pain
+225624000||Panic attack
+267036007||Dyspnoea
+214264003||Lethargy
+49049000||Parkinson's disease
+309538000||Numbness of foot
+3877011000036101||Lipitor
+13791008||Asthenia
+3877011000036101||Lipitor
+240015000||Contracture of tendon of ankle region
+288228002||Myalgia/myositis - forearm
+698065002||Acid reflux
+26544005||Muscle weakness
+57676002||Arthralgia
+3877011000036101||Lipitor
+57676002||Arthralgia
+202855006||Lateral epicondylitis
+37567005||Acenaesthesia
+51197009||Stomach cramps
+47933007||Foot pain
+271873000||Senility
+238131007||Overweight
+76948002||Severe pain
+3877011000036101||Lipitor
+22253000||Pain
+309537005||Numbness of lower limb
+76948002||Severe pain
+282145008||Unable to walk
+3877011000036101||Lipitor
+12063002||Rectal haemorrhage
+248490000||Bloating symptom
+95891005||Influenza-like illness
+24184005||Finding of increased blood pressure
+21238011000036103||oestradiol
+166643006||Liver enzymes abnormal
+57676002||Arthralgia
+74323005||Pain in elbow
+39423001||Stammering
+30989003||Knee pain
+3877011000036101||Lipitor
+25064002||Headache
+57676002||Arthralgia
+10601006||Pain in lower limb
+44548000||Hyperactive behaviour
+82991003||Generalised aches and pains
+35489007||Depression
+3877011000036101||Lipitor
+22253000||Pain
+84229001||Fatigue
+431416001||Menstrual cramp
+48694002||Anxiety
+81680005||Neck pain
+84229001||Fatigue
+13791008||Asthenia
+161891005||Backache
+193462001||Insomnia
+26544005||Muscle weakness
+3298011000036103||Lipex
+129565002||Myopathy
+102556003||Pain in upper limb
+247592009||Poor short-term memory
+62507009||Pins and needles
+448589005||Arthritis of hand
+36031001||Burning feet
+4230011000036107||Zestril
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+84229001||Fatigue
+162116003||Urinary frequency
+193462001||Insomnia
+35489007||Depression
+26544005||Muscle weakness
+24700007||Multiple sclerosis
+6206011000036109||Lipitor 40 mg tablet: film-coated
+424372002||Oedema of extremity
+22253000||Pain
+34436003||Haematuria
+448589005||Arthritis of hand
+35489007||Depression
+3877011000036101||Lipitor
+399153001||Vertigo
+162059005||Upset stomach
+285365001||Pain in toe
+10601006||Pain in lower limb
+301202006||Nasal sinus problem
+3877011000036101||Lipitor
+418290006||Itching
+80182007||Irregular menstruation
+278040002||Loss of hair
+228158008||Walking disability
+422587007||Nausea
+309087008||Paraesthesia of foot
+431416001||Menstrual cramp
+22298006||Myocardial infarction
+7006003||Clumsiness
+68962001||Myalgia
+281016006||Incoordination
+3877011000036101||Lipitor
+21343011000036103||atorvastatin
+44077006||Numbness
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+3298011000036103||Lipex
+84229001||Fatigue
+162397003||Pain in throat
+301345002||Difficulty sleeping
+57676002||Arthralgia
+62315008||Diarrhoea
+4031011000036106||Crestor
+289903006||Menopause present
+3877011000036101||Lipitor
+25064002||Headache
+63901009||Orchidodynia
+386807006||Memory impairment
+77424011000036100||ubidecarenone
+22253000||Pain
+3904011000036106||Zocor
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+240131006||Rhabdomyolysis
+399153001||Vertigo
+22298006||Myocardial infarction
+22253000||Pain
+28551000168108||Voltaren
+32972011000036104||Lyrica
+419723007||Mentally dull
+404640003||Dizziness
+76948002||Severe pain
+3877011000036101||Lipitor
+68962001||Myalgia
+102551008||Cramp in foot
+84229001||Fatigue
+3877011000036101||Lipitor
+95677002||Disorder of vision
+3877011000036101||Lipitor
+193462001||Insomnia
+3877011000036101||Lipitor
+30989003||Knee pain
+225473001||Feels everything is futile
+26544005||Muscle weakness
+52613005||Excessive sweating
+72405004||Increased appetite
+228158008||Walking disability
+271599002||Feeling content
+21290011000036100||Testosterone
+3877011000036101||Lipitor
+60238002||Muscle twitch
+3877011000036101||Lipitor
+21417011000036105||fenofibrate
+102572006||Oedema of lower extremity
+57676002||Arthralgia
+230690007||Cerebrovascular accident
+57406009||Carpal tunnel syndrome
+10601006||Pain in lower limb
+3877011000036101||Lipitor
+429783005||Paraesthesia of lower extremity
+74323005||Pain in elbow
+42984000||Night sweats
+235856003||Liver disease
+183202003||Shin splint
+248268002||Tires quickly
+271681002||Stomach ache
+3080011000036109||Tylenol
+45326000||Shoulder pain
+68962001||Myalgia
+3877011000036101||Lipitor
+426120002||Pain provoked by rest
+28551000168108||Voltaren
+57182000||Nerve injury
+28743005||Productive cough
+21565011000036108||ezetimibe + simvastatin
+62315008||Diarrhoea
+3877011000036101||Lipitor
+116289008||Abdominal bloating
+47933007||Foot pain
+282195009||Difficulty walking up stairs
+449618007||Swelling of upper limb
+68962001||Myalgia
+32398004||Bronchitis
+397803000||Erectile dysfunction
+73589001||Intervertebral disc prolapse
+47933007||Foot pain
+23056005||Sciatica
+69896004||Rheumatoid arthritis
+271681002||Stomach ache
+282145008||Unable to walk
+49727002||Cough
+26079004||Tremor
+68962001||Myalgia
+246636008||Blurred vision - hazy
+289530006||Vaginal bleeding
+25064002||Headache
+55300003||Muscle cramp
+61372001||Aggression
+3877011000036101||Lipitor
+63102001||Visual disturbance
+161891005||Backache
+162315007||Morbid thoughts
+10601006||Pain in lower limb
+56265001||Heart disease
+95891005||Influenza-like illness
+76948002||Severe pain
+48167000||Amnesia
+404640003||Dizziness
+68962001||Myalgia
+3877011000036101||Lipitor
+48694002||Anxiety
+45352006||Spasm
+248274002||Lack of energy
+449917004||Cramp in lower limb
+162076009||Excessive upper gastrointestinal gas
+193462001||Insomnia
+47004009||Dysphonia
+279039007||Low back pain
+3904011000036106||Zocor
+228158008||Walking disability
+29857009||Chest pain
+53057004||Hand pain
+49727002||Cough
+95891005||Influenza-like illness
+193462001||Insomnia
+76948002||Severe pain
+95891005||Influenza-like illness
+70270011000036104||ibuprofen 5% gel
+84229001||Fatigue
+3877011000036101||Lipitor
+30989003||Knee pain
+3877011000036101||Lipitor
+76948002||Severe pain
+432352001||Increased creatine kinase level
+95891005||Influenza-like illness
+248223005||Feeling faint
+47933007||Foot pain
+13791008||Asthenia
+30989003||Knee pain
+45326000||Shoulder pain
+45326000||Shoulder pain
+429513001||Rupture of Achilles tendon
+431416001||Menstrual cramp
+250069006||Muscle tension
+225014007||Feeling empty
+80515008||Hepatomegaly
+22253000||Pain
+162076009||Excessive upper gastrointestinal gas
+47933007||Foot pain
+22253000||Pain
+22253000||Pain
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+85828009||Autoimmune disease
+26544005||Muscle weakness
+35489007||Depression
+161873000||Heavy legs
+48167000||Amnesia
+698065002||Acid reflux
+25064002||Headache
+162076009||Excessive upper gastrointestinal gas
+282299006||Unable to balance
+3877011000036101||Lipitor
+13791008||Asthenia
+404640003||Dizziness
+3877011000036101||Lipitor
+95421005||Intercostal myalgia
+2940011000036100||Premarin
+51197009||Stomach cramps
+248132003||Craving for food or drink
+35489007||Depression
+10601006||Pain in lower limb
+309774006||Weakness of limb
+404640003||Dizziness
+279069000||Musculoskeletal pain
+22253000||Pain
+24700007||Multiple sclerosis
+3904011000036106||Zocor
+3877011000036101||Lipitor
+419723007||Mentally dull
+84229001||Fatigue
+363346000||Malignant neoplastic disease
+193462001||Insomnia
+301345002||Difficulty sleeping
+26929004||Alzheimer's disease
+166830008||Serum cholesterol raised
+161891005||Backache
+76948002||Severe pain
+131148009||Bleeding
+3877011000036101||Lipitor
+21343011000036103||atorvastatin
+35489007||Depression
+62315008||Diarrhoea
+278040002||Loss of hair
+131148009||Bleeding
+3527011000036101||Xanax
+419723007||Mentally dull
+228158008||Walking disability
+67849003||Excruciating pain
+30989003||Knee pain
+162076009||Excessive upper gastrointestinal gas
+309774006||Weakness of limb
+225601007||Unable to move
+361137007||Irregular heart beat
+68962001||Myalgia
+48694002||Anxiety
+161891005||Backache
+21417011000036105||fenofibrate
+80690008||Degenerative disease of the central nervous system
+13791008||Asthenia
+26544005||Muscle weakness
+3877011000036101||Lipitor
+30989003||Knee pain
+248255005||Cannot sleep at all
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+248493003||Distention of blood vessel
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+271681002||Stomach ache
+160591008||Drinks wine
+26079004||Tremor
+76948002||Severe pain
+35489007||Depression
+3384011000036100||Arthrotec
+53057004||Hand pain
+48167000||Amnesia
+84229001||Fatigue
+3877011000036101||Lipitor
+21496011000036106||prednisone
+386705008||Lightheadedness
+57676002||Arthralgia
+425423002||Pain provoked by movement
+16386004||Dry skin
+55300003||Muscle cramp
+162076009||Excessive upper gastrointestinal gas
+279039007||Low back pain
+449917004||Cramp in lower limb
+81680005||Neck pain
+47933007||Foot pain
+424196004||Feeling nervous
+21565011000036108||ezetimibe + simvastatin
+14760008||Constipation
+288226003||Myalgia/myositis - shoulder
+267052005||Flatulence/wind
+35489007||Depression
+77435011000036104||ascorbic acid
+3877011000036101||Lipitor
+3848011000036104||Pravachol
+429661002||Neuroma of foot
+49218002||Hip pain
+26544005||Muscle weakness
+2733002||Heel pain
+22298006||Myocardial infarction
+18963009||Mood swings
+26544005||Muscle weakness
+228158008||Walking disability
+2922011000036103||Fosamax
+315224006||Heavy episode of vaginal bleeding
+247592009||Poor short-term memory
+78514002||Thigh pain
+84229001||Fatigue
+44077006||Numbness
+162076009||Excessive upper gastrointestinal gas
+76948002||Severe pain
+102556003||Pain in upper limb
+35489007||Depression
+21288011000036105||diclofenac
+289530006||Vaginal bleeding
+84229001||Fatigue
+86044005||Amyotrophic lateral sclerosis
+73595000||Stress
+22253000||Pain
+283416005||Cut of hand
+248490000||Bloating symptom
+47933007||Foot pain
+3877011000036101||Lipitor
+68962001||Myalgia
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+47933007||Foot pain
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+309774006||Weakness of limb
+47004009||Dysphonia
+84229001||Fatigue
+3877011000036101||Lipitor
+76948002||Severe pain
+279039007||Low back pain
+57676002||Arthralgia
+3877011000036101||Lipitor
+22325002||Abnormal gait
+128609009||Intracranial aneurysm
+271807003||Rash
+95421005||Intercostal myalgia
+247592009||Poor short-term memory
+21242011000036102||simvastatin
+3723001||Arthritis
+32914008||Restless legs
+309774006||Weakness of limb
+53057004||Hand pain
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+271587009||Stiffness
+35489007||Depression
+277521002||Loss of motivation
+277521002||Loss of motivation
+124054003||Increased cholesterol esters
+3877011000036101||Lipitor
+36630001||Deep pain
+271834000||Burping
+22253000||Pain
+3384011000036100||Arthrotec
+84229001||Fatigue
+3877011000036101||Lipitor
+271587009||Stiffness
+57676002||Arthralgia
+3877011000036101||Lipitor
+162076009||Excessive upper gastrointestinal gas
+62507009||Pins and needles
+10085004||Metatarsalgia
+40196000||Mild pain
+35489007||Depression
+90673000||Burning sensation
+25064002||Headache
+86044005||Amyotrophic lateral sclerosis
+8943002||Weight gain
+3877011000036101||Lipitor
+161882006||Stiff neck
+63102001||Visual disturbance
+166603001||Liver function tests abnormal
+61462000||Malaria
+3877011000036101||Lipitor
+55300003||Muscle cramp
+3877011000036101||Lipitor
+102943000||Personality change
+84229001||Fatigue
+22253000||Pain
+22253000||Pain
+24199005||Feeling agitated
+228158008||Walking disability
+54586004||Lower abdominal pain
+3877011000036101||Lipitor
+3877011000036101||Lipitor
+68962001||Myalgia
+22253000||Pain
+3877011000036101||Lipitor
+213257006||Generally unwell
+76948002||Severe pain
+26544005||Muscle weakness
+35489007||Depression
+366979004||Depressed mood
+3877011000036101||Lipitor
+73211009||Diabetes mellitus
+22253000||Pain
+193462001||Insomnia
+48694002||Anxiety
+45352006||Spasm
+247373008||Ankle pain
+87715008||Aptyalism
+22253000||Pain
+3877011000036101||Lipitor
+230690007||Cerebrovascular accident
+426206001||Constant pain
+44077006||Numbness
+3877011000036101||Lipitor

@@ -1,0 +1,143 @@
+C0030193||pain
+C0086132||hard days
+C0520962||butt pain
+C0278061||brain fug
+C0043096||making me.natural weight
+C0520962||muscular, joint, nerve pain
+C0917801||WIDE AWAKE
+C0917801||Insomnia
+C0409497||two cortisone injections to get my shoulder right
+C0027497||dizzy
+C0233407||spins
+C0549249||dopey
+C1443060||ITS MAKING ME CRAZY
+C0011570||Miss your Prozac does
+C0004936||I hate doctors and meds
+C0240735||not myself
+C0038435||stressed
+C0013144||sleepy
+C0087169||Discontinuation
+C0410158||rotted my muscles out
+C1971624||lose my appetite
+C0728899||groggy
+C0235146||pookied out
+C0424000||the only reason I haven't downed all these antidepressants is because sertraline overdose rarely results in death
+C0917801||WIDE AWAKE
+C0344315||hurt
+C0005586||mood swings
+C0012833||dizziness
+C0234458||totally #weird
+C0455769||got me to the ceiling
+C0232461||ate on it like crazy
+C0018681||mild headache
+C0751295||wrecked my memory
+C0034634||rage
+C0751494||tremor
+C0004936||Mental illness
+C0030193||pain
+C0002957||got me pissed
+C0917801||insomnia
+C0043094||gained 7 lbs
+C0424295||hypomanic
+C0011551||feel like you aren't a human anymore
+C1971624||suppressed appetite
+C0556446||addiction
+C0455769||got me to the ceiling
+C0917799||sleep
+C0087169||comedown
+C0392674||exhausted
+C1971624||lost their appetite
+C0278061||trippin
+C0240735||makes me a different person
+C0234376||tremor
+C0043012||been this awake
+C0029445||bone loss
+C0018790||heart attack
+C0026858||pain
+C0018790||heart attack
+C0037763||brain zaps
+C0021400||plague
+C0000737||nervous gut pain
+C0013144||sleepy
+C0728899||fucked up
+C0008031||hurt
+C0338908||depression/anxiety
+C0041671||inattentive
+C0600104||makes you want to do stuff
+C0235169||to the ceiling
+C0455769||got me to the ceiling
+C0040822||tremor
+C0037317||waking me up
+C2830004||tired
+C0043094||gain 10kg
+C0232461||munchies
+C0022107||highly irritated
+C0020175||hungry
+"""C0162820||allergic"""
+C0011551||disassociation
+C0522224||entire arm feel paralyzed
+C0043012||100% awake all the time
+C1263846||annoying
+C0021843||functional obstructions
+C0278061||CRAZY
+C0917801||not sleeping
+C0040822||brain zaps
+C0231530||face twitch
+C0030319||anxiety
+C0393760||keeping me awake
+C0003123||I haven't eaten in 3 days
+C0042256||itches
+C2830004||knocked me on my ass last night
+C0018681||headaches
+C1704373||neat freak mode
+C0043096||Losing weight
+C0022107||be a fucking bitch
+C0043094||10+lbs in two weeks
+C0009676||confused
+C0917801||was up for 4 days
+C0011570||Miss your Prozac dose
+C0455769||got meto the ceiling
+C0003044||chiggers bites
+C0917801||wide awake yet again past 1:00 a.m
+C0018790||heart attack
+C0424091||intense apathy
+C2939186||had me in my feelings
+C0524662||addicted
+C0151911||all my limbs are jumping on their own accord
+C0043012||stay up all night
+C0003467||nervous wreck
+C0856081||restlessness
+C0740425||couldn't taste anything
+C0030193||hurt really bad
+C0424295||way too hyper
+C0234428||brain fug
+C2830004||tired
+C0042963||always sick
+C0037763||hasn't stopped shaking her leg the entire hour
+C0037274||thinning skin
+C0687133||feel terrible when I drink
+C0919661||heart palpitations
+C0043096||weight loss
+C0004936||nervous wreck
+C0917801||#insomnia
+C0043096||lose the 10 lbs
+C2939186||had me in my feelings
+C0011570||feel like crap
+C0917801||need sleep
+C0013144||drowsiness
+C0455769||got me to the ceiling
+C3536794||loneliness
+C0034634||mad
+C0728899||groggy
+C0393761||insomniac
+C0233632||thinking it was 8pm
+C0393760||#insomnia
+C0027497||dizziness
+C0344315||miserable
+C0041671||ADD prevents me from focusing
+C0005586||#bipolar
+C0522172||feel drunk
+C0234987||not falling down dizzy
+C0393760||insomnia
+C0700031||panic attacks
+C0043012||awake approx 36-38 hours
